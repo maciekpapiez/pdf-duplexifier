@@ -1,0 +1,16 @@
+trabi-o/trabi-o.iml
+trabi-o/trabi-o-ear/target/
+trabi-o/trabi-o-ear/trabi-o-ear.iml
+trabi-o/trabi-o-ejb/target/
+trabi-o/trabi-o-ejb/trabi-o-ejb.iml
+trabi-o/trabi-o-web/target/
+trabi-o/trabi-o-web/trabi-o-web.iml
+.idea/
+*.class
+*~
+.metadata
+.classpath
+.project
+.settings/
+.checkstyle
+bin/
